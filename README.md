@@ -30,7 +30,7 @@ The concept behind this project was to create a Grammarly / Pro Writing Aid clon
 
 ---
 
-###III. To Dos / Task List
+### III. To Dos / Task List
  - [x] Create Git Repository
  - [ ] Build a Basic Text Editor
     - [ ] Find proper packages
