@@ -45,6 +45,8 @@ The concept behind this project was to create a Grammarly / Pro Writing Aid clon
 Design ideas for the app, and how it will
 generally function I suppose?
 
+1. CSS Skeleton??? [^2]
+
 ---
 
 ### V. References
@@ -53,10 +55,12 @@ generally function I suppose?
 3. https://wordnet.princeton.edu/documentation (potential usage)
 4. https://github.com/duereg/adverb-where (potential usage)
 5. https://dev.to/aurelkurtula/creating-a-text-editor-in-electron-reading-files-13b8
+6. http://getskeleton.com/
 
 ---
 ### VI. Footnotes
 [^1]: Review references above!
+[^2]: Skeleton isa lightweight CSS Framework that could be useful. Please see #6 for reference.
 
 
 
