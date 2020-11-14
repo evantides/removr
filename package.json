@@ -1,0 +1,20 @@
+{
+  "name": "removr",
+  "version": "1.0.0",
+  "description": "## Overview And Main Idea The concept behind this project was to create a Grammarly / Pro Writing Aid clone of sorts. One which is built to my specific specifications- and is absolutely free! Or something like that. We'll see how far we get.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evantides/removr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evantides/removr/issues"
+  },
+  "homepage": "https://github.com/evantides/removr#readme"
+}
