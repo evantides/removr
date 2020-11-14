@@ -37,7 +37,7 @@ The concept behind this project was to create a Grammarly / Pro Writing Aid clon
     - [ ] Libraries for syntax and grammar detection [^1]
     - [ ] Code the first versions of a basic text editor!
  - [ ] Incorporate external libraries to search for grammar and syntax...
- - [ ] 
+ - [ ] ???
  
 ---
 
